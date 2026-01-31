@@ -1,5 +1,6 @@
 # Capstone_Project_1
-Capstone Project - Introduction to Computer Programming
+#  Capstone Project - Introduction to Computer Programming
+
 The financial industry has witnessed a significant rise in fraudulent activities and credit risks over the past decade, making fraud detection and credit risk assessment critical areas of focus for banks and financial institutions. In this project, we analyze a large-scale dataset provided by Paisabazaar, which includes customer demographics, financial details, credit utilization patterns, and payment behaviors. By conducting Exploratory Data Analysis (EDA) and visualizations, the goal is to uncover key insights that can help detect fraudulent behavior, assess financial risk, and strengthen customer credit profiling.
 
 The dataset consists of 100000 records with 28 attributes related to customer identity, financial history, and credit score. Key columns include Annual Income, Monthly Inhand Salary, Number of Bank Accounts, Number of Credit Cards, Interest Rate, Outstanding Debt, Credit Utilization Ratio, Credit History Age, Payment Behavior, and Credit Score. These variables are essential indicators of financial health and are widely used in risk modeling and fraud detection systems. The presence of demographic details such as Age, Occupation, and SSN adds an additional layer for identifying potential fraud cases, such as multiple accounts linked to the same identity or unrealistic financial behaviors.
